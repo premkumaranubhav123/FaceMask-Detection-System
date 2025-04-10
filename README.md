@@ -9,17 +9,6 @@ wearing/removing mask and display of prediction.
 
 #### The model is capable of predicting multiple faces with or without masks at the same time
 
-## Working 
-
-### With Mask
-
-![image](mask.png)
-
-### No Mask
-
-![image](nomask.png)
-
-
 ## Dataset
 
 The data used can be downloaded through this [link](https://data-flair.training/blogs/download-face-mask-data/) or can be downloaded from this repository as well (folders 'test' and 
@@ -33,11 +22,6 @@ To use this project on your system, follow these steps:
 
 ```
 git clone https://github.com/premkumaranubhav123/FaceMask-Detection-System
-```
-followed by:
-
-```
-cd FaceMask Detecton System
 ```
 
 2. Download all libaries using::
